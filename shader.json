@@ -2,8 +2,8 @@
   "ver": "0.1",
   "info": {
     "id": "",
-    "name": "",
-    "description": "",
+    "name": "Glitter Bloom",
+    "description": "This shader shows various aspects of auroras",
     "tags": []
   },
   "renderpass": [
